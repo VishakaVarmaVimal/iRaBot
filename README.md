@@ -61,7 +61,9 @@ Some **screenshots** for reference
 
 ## References 
 https://medium.com/@abraham.kang/understanding-the-differences-between-alexa-api-ai-wit-ai-and-luis-cortana-2404ece0977c
+
 https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f
+
 https://dialogflow.com/docs/getting-started
 
 
